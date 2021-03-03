@@ -11,4 +11,4 @@ app.get("/", (req, res) => {
     res.render("index", {name: "bub"})
 })
 
-app.listen(3000)
+app.listen(3000) 
